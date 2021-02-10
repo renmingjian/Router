@@ -1,0 +1,7 @@
+include ':module2'
+include ':module1'
+include ':routeApi'
+include ':routeCompiler'
+include ':routeAnnotation'
+include ':app'
+rootProject.name = "Router"
